@@ -1,9 +1,14 @@
 <div class="container text-center">
   <h4>Help Center</h4>
   @for (item of settings; track $index) {
-  <div class="border-bottom d-flex align-items-center p-2 pt-5 gap-2">
-    <img [src]="item.img" alt="" sizes="" srcset="" />
-    <h6>{{ item.title }}</h6>
+  <div
+    class="border-bottom d-flex align-items-center justify-content-between p-2 pt-5 gap-2"
+  >
+    <div class="d-flex align-items-center gap-2">
+      <img [src]="item.img" alt="" sizes="" srcset="" />
+      <h6>{{ item.title }}</h6>
+    </div>
+    <i class="bi bi-chevron-right"></i>
   </div>
   }
 </div>
