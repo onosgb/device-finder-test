@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<defs>
+<font id="icofont" horiz-adv-x="1000" >
+<font-face font-family="IcoFont" font-weight="400" font-style="Regular" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="bluetooth" horiz-adv-x="1000" unicode="&#xeebe;" d="M759 558l-211 210c-11 11-29 20-41 20-12 0-22-13-22-28v-277c0-15-9-19-19-8l-163 162c-11 11-28 11-39 0l-22-23c-11-10-11-28 0-38l206-207c11-10 11-28 0-38l-206-207c-11-10-11-28 0-38l22-23c11-11 28-11 39 0l163 163c10 10 19 7 19-8v-278c0-15 10-28 22-28 12 0 30 9 41 20l211 210c10 11 10 28 0 39l-150 150c-11 10-11 28 0 38l150 150c10 11 10 28 0 39z m-167 44l44-45c11-10 11-28 0-38l-44-44c-11-11-20-7-20 8v111c0 15 9 19 20 8z m44-459l-44-45c-11-11-20-7-20 8v112c0 15 9 18 20 8l44-45c11-10 11-28 0-38z" />
+</font>
+</defs>
+</svg>
