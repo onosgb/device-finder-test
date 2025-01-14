@@ -1,0 +1,24 @@
+.circle {
+  width: 200px;
+  height: 200px;
+  border: 2px solid;
+  border-radius: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+  flex-direction: column;
+  &_icon {
+    font-size: 3rem;
+    transition: transform 0.5s ease;
+  }
+  p {
+    font-size: 1rem;
+    text-align: center;
+    color: #4dabf7;
+  }
+}
+
+.container {
+  height: 90vh;
+}
