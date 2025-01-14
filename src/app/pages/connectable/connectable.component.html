@@ -44,6 +44,7 @@
       <button
         class="btn btn-default rounded-circle d-flex justify-content-center align-items-center"
         [ngClass]="$index === 0 ? ['bg-primary text-white'] : ['border-dark']"
+        [routerLink]="[item.link]"
       >
         <i class="bi {{ item.icon }} fs-1"></i>
       </button>

@@ -14,17 +14,17 @@ export class ConnectableComponent {
     {
       name: 'Away Mode',
       icon: 'bi-house-door',
-      link: '/away-mode',
+      link: '#',
     },
     {
       name: 'Activities',
       icon: 'bi-bell',
-      link: '/activities',
+      link: '#',
     },
     {
       name: 'Share',
       icon: 'bi-share',
-      link: '/share',
+      link: '#',
     },
     {
       name: 'Settings',
